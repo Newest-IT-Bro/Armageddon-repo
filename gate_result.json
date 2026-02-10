@@ -1,0 +1,23 @@
+{
+  "gate": "secrets_and_role",
+  "timestamp_utc": "2026-01-20T01:31:40Z",
+  "region": "eu-west-2",
+  "instance_id": "i-01cde651cc3ce3ebf",
+  "secret_id": "lab1a-rds-mysql",
+  "resolved_instance_profile_arn": "None",
+  "resolved_role_name": "",
+  "caller_arn": "arn:aws:iam::961341540291:user/Benjamin",
+  "toggles": {
+    "require_rotation": false,
+    "check_secret_policy_wildcard": true,
+    "check_secret_value_read": false
+  },
+  "status": "FAIL",
+  "exit_code": 2,
+  "details": [
+"PASS: aws sts get-caller-identity succeeded (credentials OK).\nPASS: secret exists and is describable (lab1a-rds-mysql).\nINFO: rotation requirement disabled (REQUIRE_ROTATION=false).\nPASS: no resource policy found (OK) or not applicable (lab1a-rds-mysql).\nINFO: on-instance checks skipped (not running as expected role on EC2)."],
+  "warnings": [
+"WARN: expected role unknown; cannot validate caller role context."],
+  "failures": [
+"FAIL: instance has NO IAM instance profile attached (i-01cde651cc3ce3ebf)."]
+}
