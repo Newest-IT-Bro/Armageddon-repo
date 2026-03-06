@@ -1,6 +1,6 @@
 :rocket: # Class7Armageddon :rocket:
 
-:) Files are all in the branches!! Have fun :)
+:bug: Files are all in the branches!! Have fun :bug:
 
 A practical IT project built to demonstrate infrastructure, deployment, security, automation, and operational troubleshooting skills.
 
@@ -49,7 +49,7 @@ The main goals of this project are:
 
 Here’s a slightly better branch section if you want it to look more professional:
 
-:bug: ## Branch Guide :bug:
+:Down Arrow: ## Branch Guide :Down Arrow: 
 
 | Branch | Purpose |
 |--------|---------|
