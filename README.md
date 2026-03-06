@@ -1,6 +1,6 @@
-# Class7Armageddon
+:rocket: # Class7Armageddon :rocket:
 
-Files are all in the branches!! Have fun :)
+:) Files are all in the branches!! Have fun :)
 
 A practical IT project built to demonstrate infrastructure, deployment, security, automation, and operational troubleshooting skills.
 
@@ -17,7 +17,7 @@ This repository contains the work for an end-to-end IT project covering areas su
 
 The purpose of this project is to show hands-on ability in building, managing, and improving a working environment using real-world tools and practices.
 
-## Project Goals
+:smile: ## Project Goals :smile:
 
 The main goals of this project are:
 
@@ -49,7 +49,7 @@ The main goals of this project are:
 
 Here’s a slightly better branch section if you want it to look more professional:
 
-## Branch Guide
+:bug: ## Branch Guide :bug:
 
 | Branch | Purpose |
 |--------|---------|
