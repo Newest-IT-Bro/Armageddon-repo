@@ -17,7 +17,7 @@ This repository contains the work for an end-to-end IT project covering areas su
 
 The purpose of this project is to show hands-on ability in building, managing, and improving a working environment using real-world tools and practices.
 
-:smile: ## Project Goals :smile:
+:smile: Project Goals :smile:
 
 The main goals of this project are:
 
@@ -30,7 +30,7 @@ The main goals of this project are:
 
 ---
 
-## Key Areas Covered
+☂️ Key Areas Covered ☂️
 
 - AWS infrastructure
 - Terraform provisioning
@@ -49,7 +49,7 @@ The main goals of this project are:
 
 Here’s a slightly better branch section if you want it to look more professional:
 
-:Down Arrow: ## Branch Guide :Down Arrow: 
+:DownArrow: ## Branch Guide :DownArrow:
 
 | Branch | Purpose |
 |--------|---------|
