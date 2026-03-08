@@ -53,17 +53,17 @@ Here’s a slightly better branch section if you want it to look more profession
 
 | Branch | Purpose |
 |--------|---------|
-| [main](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main) | Production-ready or final reviewed version |
-| [Lab1a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/dev) | Ongoing development |
+| [main](https://github.com/Newest-IT-Bro/Armageddon-repo.git) | Production-ready or final reviewed version |
+| [Lab1a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1a) | Ongoing development |
 | [Lab1b](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/networking) | VPC, subnets, routing, and security groups |
-| [lab1c](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/security) | IAM, WAF, certificates, and access controls |
-| [BonusA](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/dns-https) | Route 53, DNS resolution, ACM, and HTTPS |
+| [lab1c](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/clean-lab1c?tab=readme-ov-file) | IAM, WAF, certificates, and access controls |
+| [BonusA](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusA?tab=readme-ov-file) | Route 53, DNS resolution, ACM, and HTTPS |
 | [BonusB](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [BonusC](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [BonusD](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [BonusE](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [BonusF](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [BonusG](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
+| [BonusG+]() | Bedrock+ | 
 | [Lab2a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [Lab2b](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [Lab3a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
