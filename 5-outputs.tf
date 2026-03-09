@@ -14,7 +14,6 @@ EOT
 }
 */
 
-
 output "aws_vpc" {
   value = aws_vpc.lab1cbs_vpc.id
 }
@@ -98,17 +97,4 @@ output "dashboard_name" {
 
 output "lab1cbs_app_url_https" {
   value = "https://${var.domain_name}"
-
-}
- 
- output "chewbacca_waf_log_destination" {
-  value = var.waf_log_destination
-}
-
-output "chewbacca_waf_cw_log_group_name" {
-  value = var.waf_log_destination == "cloudwatch" ? aws_cloudwatch_log_group.chewbacca_waf_log_group01[0].name : null
-}
-
-output "chewbacca_waf_logs_s3_bucket" {
-  value = var.waf_log_destination == "s3" ? aws_s3_bucket.chewbacca_waf_logs_bucket01[0].bucket : null
 }
