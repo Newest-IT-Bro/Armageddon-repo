@@ -1,0 +1,26 @@
+Student verification (CLI) — DNS + Logs
+1) Verify apex record exists
+  aws route53 list-resource-record-sets \
+    --hosted-zone-id "Z09361711HDESSBG6MZ22" \
+    --query "ResourceRecordSets[?Name=='passportpookie.click.']"
+
+2) Verify ALB logging is enabled
+  aws elbv2 describe-load-balancers \
+    --names lab1cbs-alb \
+    --query "LoadBalancers[0].LoadBalancerArn"
+
+Then:
+  aws elbv2 describe-load-balancer-attributes \
+  --load-balancer-arn "arn:aws:elasticloadbalancing:eu-west-2:961341540291:loadbalancer/app/lab1cbs-alb/42ff52393e58ab86"
+
+  Expected attributes include:
+  access_logs.s3.enabled = true
+  access_logs.s3.bucket = your bucket
+  access_logs.s3.prefix = your prefix
+
+3) Generate some traffic
+  curl -I https://passportpookie.click
+  curl -I https://app.passportpookie.click
+
+4) Verify logs arrived in S3 (may take a few minutes)
+  aws s3 ls s3://lab1cbs_alb_logs_bucket /alb-access-logs/AWSLogs/961341540291/elasticloadbalancing/ --recursive | head
