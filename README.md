@@ -61,7 +61,7 @@ Here’s a slightly better branch section if you want it to look more profession
 | [BonusB](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [BonusC](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [BonusD](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [BonusE-G]() | Bedrock+ | 
+| [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusE) | Bedrock + | 
 | [Lab2a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [Lab2b](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
 | [Lab3a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
