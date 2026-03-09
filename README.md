@@ -53,19 +53,19 @@ Here’s a slightly better branch section if you want it to look more profession
 
 | Branch | Purpose |
 |--------|---------|
-| [main](https://github.com/Newest-IT-Bro/Armageddon-repo.git) | Production-ready or final reviewed version |
+| [main](https://github.com/Newest-IT-Bro/Armageddon-repo.git) | final reviewed version |
 | [Lab1a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1a) | Ongoing development |
-| [Lab1b](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/networking) | VPC, subnets, routing, and security groups |
-| [lab1c](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/clean-lab1c?tab=readme-ov-file) | IAM, WAF, certificates, and access controls |
-| [BonusA](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusA?tab=readme-ov-file) | Route 53, DNS resolution, ACM, and HTTPS |
-| [BonusB](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [BonusC](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [BonusD](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusE) | Bedrock + | 
-| [Lab2a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [Lab2b](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [Lab3a](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
-| [Lab3b](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/feature/logging-monitoring) | ALB logs, validation, and monitoring |
+| [Lab1b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1b) | Ongoing development |
+| [lab1c](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/clean-lab1c?tab=readme-ov-file) | Ongoing development |
+| [BonusA](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusA?tab=readme-ov-file) | Ongoing development |
+| [BonusB](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusB?tab=readme-ov-file) | Ongoing development|
+| [BonusC](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusC?tab=readme-ov-file) | Ongoing development |
+| [BonusD](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusD?tab=readme-ov-file) | Ongoing development |
+| [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusE) |Ongoing development | 
+| [Lab2a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2a?tab=readme-ov-file) | Ongoing development |
+| [Lab2b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2b?tab=readme-ov-file) | Ongoing development |
+| [Lab3a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3a?tab=readme-ov-file) | Ongoing development |
+| [Lab3b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3b?tab=readme-ov-file) | Ongoing development |
 
 
 
