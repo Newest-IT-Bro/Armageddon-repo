@@ -54,18 +54,17 @@ Here’s a slightly better branch section if you want it to look more profession
 | Branch | Purpose |
 |--------|---------|
 | [main](https://github.com/Newest-IT-Bro/Armageddon-repo.git) | final reviewed version |
-| [Lab1a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1a) | Ongoing development |
-| [Lab1b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1b) | Ongoing development |
-| [lab1c](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/clean-lab1c?tab=readme-ov-file) | Ongoing development |
-| [BonusA](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusA?tab=readme-ov-file) | Ongoing development |
-| [BonusB](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusB?tab=readme-ov-file) | Ongoing development|
-| [BonusC](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusC?tab=readme-ov-file) | Ongoing development |
-| [BonusD](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusD?tab=readme-ov-file) | Ongoing development |
+| [Lab1a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1a) | Completed |
+| [Lab1b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab1b) | Completed |
+| [lab1c](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/clean-lab1c?tab=readme-ov-file) | Completed |
+| [BonusA](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusA?tab=readme-ov-file) | Completed |
+| [BonusB](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusB?tab=readme-ov-file) | Completed |
+| [BonusC](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusC?tab=readme-ov-file) | Completed |
+| [BonusD](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusD?tab=readme-ov-file) | Completed  |
 | [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusE) |Ongoing development | 
-| [Lab2a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2a?tab=readme-ov-file) | Ongoing development |
-| [Lab2b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2b?tab=readme-ov-file) | Ongoing development |
-| [Lab3a](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3a?tab=readme-ov-file) | Ongoing development |
-| [Lab3b](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3b?tab=readme-ov-file) | Ongoing development |
+| [Lab2A/B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2a?tab=readme-ov-file) | Ongoing development |
+| [Lab3A/B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3a?tab=readme-ov-file) | Ongoing development |
+
 
 
 
