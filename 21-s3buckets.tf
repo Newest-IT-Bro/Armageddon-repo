@@ -18,7 +18,7 @@ resource "aws_route53_record" "lab1cbs_apex_alias01" {
     evaluate_target_health = true
   }
 }
-*/
+
 ############################################
 # S3 bucket for ALB access logs
 ############################################
