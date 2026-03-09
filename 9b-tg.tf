@@ -1,0 +1,35 @@
+############################################
+# Target Group + Attachment
+############################################
+
+# Explanation: Target groups are lab1cbs’s “who do I forward to?” list — private EC2 lives here.
+ resource "aws_lb_target_group" "lab1cbs_tg01" {
+  name        = "${var.project_name}-tg01"
+  port        = 80
+  protocol    = "HTTP"
+  vpc_id      = aws_vpc.lab1cbs_vpc.id
+  target_type = "instance"
+
+  # TODO: students set health check path to something real (e.g., /health)
+  health_check {
+    enabled             = true
+    interval            = 30
+    path                = "/"
+    port                = "traffic-port"
+    protocol            = "HTTP"
+    healthy_threshold   = 2
+    unhealthy_threshold = 2
+    timeout             = 5
+    matcher             = "200-399"
+  }
+
+  tags = merge(local.tags, { name = "${var.project_name}-tg01" })
+}
+
+# Explanation: lab1cbs personally introduces the ALB to the private EC2 — “this is my friend, don’t shoot.”
+resource "aws_lb_target_group_attachment" "lab1cbs_tg_attach01" {
+  target_group_arn = aws_lb_target_group.lab1cbs_tg01.arn
+  target_id        = aws_instance.lab_ec2.id
+  port             = 80
+}
+  # TODO: students ensure EC2 security group allows inbound from ALB SG on this port (rule above)

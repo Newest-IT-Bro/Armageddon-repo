@@ -1,0 +1,22 @@
+Student verification (CLI)
+1) Confirm hosted zone exists (if managed)
+  aws route53 list-hosted-zones-by-name \
+    --dns-name passportpookie.click \
+    --query "HostedZones[].Id"
+
+2) Confirm app record exists
+  aws route53 list-resource-record-sets \
+  --hosted-zone-id Z09361711HDESSBG6MZ22 \
+  --query "ResourceRecordSets[?Name=='app.passportpookie.click.']"
+
+3) Confirm certificate issued
+  aws acm describe-certificate \
+  --certificate-arn "arn:aws:acm:eu-west-2:961341540291:certificate/53aa22bb-64c6-4e61-bbf8-f58c2931e2df" \
+  --query "Certificate.Status"
+
+Expected: ISSUED
+
+4) Confirm HTTPS works
+  curl -I https://app.passportpookie.click
+
+Expected: HTTP/1.1 200 (or 301 then 200 depending on your app)
