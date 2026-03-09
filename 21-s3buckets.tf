@@ -5,7 +5,7 @@
 ############################################
 # Route53: Zone Apex (root domain) -> ALB
 ############################################
-
+/*
 # Explanation: The zone apex is the throne room—lab1cbs-growl.com itself should lead to the ALB.
 resource "aws_route53_record" "lab1cbs_apex_alias01" {
   zone_id = local.hosted_zone_id
@@ -116,3 +116,4 @@ resource "aws_s3_bucket_policy" "lab1cbs_alb_logs_policy" {
 #   prefix  = var.alb_access_logs_prefix
 #   enabled = var.enable_alb_access_logs
 # }
+*/
