@@ -60,19 +60,7 @@ Here’s a slightly better branch section if you want it to look more profession
 | [BonusA](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusA?tab=readme-ov-file) | Completed |
 | [BonusB](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusB?tab=readme-ov-file) | Completed |
 | [BonusC](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusC?tab=readme-ov-file) | Completed |
-| [BonusD](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusD?tab=readme-ov-file) | Completed  |
-| [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/bonusE) |Ongoing development | 
-| [Lab2A/B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2a?tab=readme-ov-file) | Ongoing development |
-| [Lab3A/B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3a?tab=readme-ov-file) | Ongoing development |
-
-
-
-
-
-.
-├── README.md
-├── terraform/
-├── app/
-├── scripts/
-├── docs/
-└── assets/
+| [BonusD](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusD?tab=readme-ov-file) | Completed |
+| [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/bonusE) | completed | 
+| [Lab2A-B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2a?tab=readme-ov-file) | completed |
+| [Lab3A-B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3a?tab=readme-ov-file) | Ongoing development |
