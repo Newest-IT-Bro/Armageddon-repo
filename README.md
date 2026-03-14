@@ -1,4 +1,4 @@
-## README TO BE UPDATED ##
+###### README NEEDS TO BE UPDATED #######
 
 
 # Lab 1C — Terraform: EC2 → RDS + Secrets/Params + Observability + Incident Alerts
