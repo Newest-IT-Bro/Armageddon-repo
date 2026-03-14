@@ -1,7 +1,5 @@
-###### README NEEDS TO BE UPDATED #######
 
-
-# Lab 1C — Terraform: EC2 → RDS + Secrets/Params + Observability + Incident Alerts
+####### README NEEDS TO BE UPDATED #######
 
 ## Purpose
 Modern companies do not build AWS by clicking around in the console.
