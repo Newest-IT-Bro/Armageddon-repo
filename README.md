@@ -49,7 +49,7 @@ The main goals of this project are:
 
 Here’s a slightly better branch section if you want it to look more professional:
 
-:DownArrow: ## Branch Guide :DownArrow:
+:Arrow: Branch Guide :Arrow:
 
 | Branch | Purpose |
 |--------|---------|
