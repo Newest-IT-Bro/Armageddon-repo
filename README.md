@@ -62,5 +62,5 @@ Here’s a slightly better branch section if you want it to look more profession
 | [BonusC](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusC?tab=readme-ov-file) | Completed |
 | [BonusD](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/BonusD?tab=readme-ov-file) | Completed |
 | [BonusE-G](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/bonusE) | completed | 
-| [Lab2A-B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab2a?tab=readme-ov-file) | completed |
-| [Lab3A-B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/Lab3a?tab=readme-ov-file) | Ongoing development |
+| [Lab2A-B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab2a-b) | completed |
+| [Lab3A-B](https://github.com/Newest-IT-Bro/Armageddon-repo/tree/lab3a-b) | completed |
